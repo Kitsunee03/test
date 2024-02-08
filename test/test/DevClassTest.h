@@ -1,7 +1,7 @@
 #pragma once
 class DevClassTest
 {
-	//cambio que va a implosionar git
+	//mucho codigo útil que no quiero perder
 };
 
 // tremendo cambio, good job
